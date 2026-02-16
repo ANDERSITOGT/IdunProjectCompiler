@@ -1,3 +1,7 @@
+# Archivos de IntelliJ IDEA (Configuración local del IDE)
+.idea/
+*.iml
+
 # Compiled class file
 *.class
 
