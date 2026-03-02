@@ -51,8 +51,8 @@ public class VentanaCalculadora extends JFrame {
 
             if (textoBoton.equals("Resolver")) {
                 boton.setBackground(new Color(163, 228, 114));
-                boton.setForeground(Color.BLACK);
-                boton.setFont(new Font("Arial", Font.BOLD, 30));
+                boton.setForeground(Color.GREEN);
+                boton.setFont(new Font("Arial", Font.BOLD, 35));
             }
             if (textoBoton.equals("C")) {
                 boton.setBackground(new Color(255, 102, 102));
